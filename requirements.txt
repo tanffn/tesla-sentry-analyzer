@@ -1,0 +1,7 @@
+# For CPU-only support (default)
+opencv-python>=4.5.0
+numpy>=1.20.0
+rich>=10.0.0
+
+# Alternatively, for GPU support (uncomment the following line and comment out the opencv-python line above)
+# opencv-python-headless-cuda>=4.5.0 
